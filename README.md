@@ -66,3 +66,6 @@ This code segment keeps Rich Presence active through a continuous update loop. A
 
 This project serves as an essential guide for developers interested in implementing and customizing Rich Presence in their applications, enhancing visibility and engagement on Discord.
 
+
+## Example
+![image](https://github.com/seregonwar/Custom-Discord-Activity/assets/109359355/92b964f7-cb37-475e-8df8-f52041faac3b)
